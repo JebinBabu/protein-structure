@@ -1,4 +1,4 @@
-# protein structure decoder
+# Protein structure decoder
 
 Analyse primary and secondary structures of proteins from DNA sequence.
 
