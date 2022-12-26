@@ -4,7 +4,7 @@ Analyse primary and secondary structures of proteins from DNA sequence.
 
 ## Description
 
-Decoded protein primary structure from .fasta or .fna files or DNA sequence.
+Decodes protein primary structure from .fasta or .fna files or DNA sequence.
 
 ## Usage
 
