@@ -1,6 +1,7 @@
 # Protein structure decoder
 
-Analyse primary and secondary structures of proteins from DNA sequence.
+Analyse primary and secondary structures of proteins from DNA sequence.<br>
+(Currently only the primary structure, working on visualizing the Ramachandran plot from the sequence)
 
 ## Description
 
